@@ -1,0 +1,14 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": "27017",
+    "name": "portfolio-node",
+    "user": "",
+    "password": ""
+  },
+  "http": {
+    "port": "3000",
+    "host": "localhost",
+    "publicRoot": "public",
+  }
+}
